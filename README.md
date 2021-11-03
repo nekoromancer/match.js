@@ -3,9 +3,9 @@ Match.js is a Javascript library like the 'switch' statement but it works as exp
 
 ## Install
 ```shell script
-npm i -s nekoro.match.js
+npm i -s pyonkoro.match
 // or
-yarn add nekoro.match.js
+yarn add pyonkoro.match
 ```
   
 ## Usage  
