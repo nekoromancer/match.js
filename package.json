@@ -1,0 +1,38 @@
+{
+  "name": "match.js",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Match.js is a Javascript library like the 'switch' statement but it works as expression",
+  "main": "dist/index.min.js",
+  "scripts": {
+    "test": "mocha \"./test/*.js\"",
+    "build": "npm test && rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekoromancer/match.js.git"
+  },
+  "keywords": [
+    "javascript",
+    "switch",
+    "case",
+    "library",
+    "functional programming"
+  ],
+  "author": "nekoromancer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nekoromancer/match.js/issues"
+  },
+  "homepage": "https://github.com/nekoromancer/match.js#readme",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "dependencies": {
+    "rollup": "1.32.1",
+    "rollup-plugin-tslint": "0.2.2",
+    "rollup-plugin-typescript2": "0.30.0",
+    "rollup-plugin-uglify": "5.0.2"
+  }
+}
