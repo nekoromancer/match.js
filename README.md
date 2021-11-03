@@ -1,5 +1,12 @@
 # match.js  
 Match.js is a Javascript library like the 'switch' statement but it works as expression  
+
+## Install
+```shell script
+npm i -s nekoro.match.js
+// or
+yarn add nekoro.match.js
+```
   
 ## Usage  
 ```typescript

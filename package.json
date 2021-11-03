@@ -27,9 +27,7 @@
   "homepage": "https://github.com/nekoromancer/match.js#readme",
   "devDependencies": {
     "chai": "*",
-    "mocha": "*"
-  },
-  "dependencies": {
+    "mocha": "*",
     "rollup": "1.32.1",
     "rollup-plugin-tslint": "0.2.2",
     "rollup-plugin-typescript2": "0.30.0",
