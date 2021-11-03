@@ -1,5 +1,5 @@
 {
-  "name": "match.js",
+  "name": "nekoro.match.js",
   "type": "module",
   "version": "1.0.0",
   "description": "Match.js is a Javascript library like the 'switch' statement but it works as expression",
