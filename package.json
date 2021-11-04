@@ -1,7 +1,7 @@
 {
   "name": "pyonkoro.match",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Match.js is a Javascript library like the 'switch' statement but it works as expression",
   "main": "dist/index.min.js",
   "scripts": {
