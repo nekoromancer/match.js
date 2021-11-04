@@ -8,10 +8,12 @@
     "forceConsistentCasingInFileNames": true,
     "sourceMap": true,
     "rootDir": "src",
-    "outDir": "dist"
+    "outDir": "dist",
+    "declaration": true,
+    "declarationDir": "dist/dts"
   },
   "includes": ["src/**/*"],
-  "exclude": ["test", "**/*.d.ts"],
+  "exclude": ["test"],
   "$schema": "https://json.schemastore.org/tsconfig",
   "display": "Recommended"
 }
